@@ -15,7 +15,7 @@
                 }
                 stage('closing'){
                     steps{
-                        echo "new demo"
+                        echo "to demo a newapp"
                 }
             }
         }
